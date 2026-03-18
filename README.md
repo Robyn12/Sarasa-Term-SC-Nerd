@@ -1,4 +1,6 @@
 # `Sarasa Term SC Nerd` 字体
+# New builder
+I added new buildFonts.sh to directly build fonts on arch linux.
 
 ## 关于
 
